@@ -48,3 +48,6 @@ https://www.fangzhipeng.com/archives.html
 
 哔哩哔哩 bilibili 网站后台工程 源码
 https://github.com/openbilibili
+
+Gradle打包可执行jar包和给别的项目引用的不可执行jar包
+https://stackoverflow.com/questions/54134759/springboot-with-multi-project-gradle-main-class-name-has-not-been-configured
