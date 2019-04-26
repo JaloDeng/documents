@@ -46,8 +46,8 @@ https://blog.csdn.net/baidu_22254181
 方志朋的博客
 https://www.fangzhipeng.com/archives.html
 
-哔哩哔哩 bilibili 网站后台工程 源码
-https://github.com/openbilibili
+Spring Security Architecture（Spring安全框架的体系结构）
+https://www.jianshu.com/p/61d3af5fa1ba
 
 Gradle打包可执行jar包和给别的项目引用的不可执行jar包
 https://stackoverflow.com/questions/54134759/springboot-with-multi-project-gradle-main-class-name-has-not-been-configured
