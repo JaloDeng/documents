@@ -1,6 +1,9 @@
 Springboot开源代码集锦
 https://blog.csdn.net/oneil2016/article/details/81223460
 
+微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发
+https://github.com/lenve/vhr
+
 springcloud
 https://github.com/zhoutaoo/SpringCloud
 
