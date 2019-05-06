@@ -37,6 +37,9 @@ https://www.jianshu.com/p/08cc28921fd0?utm_campaign=maleskine&utm_content=note&u
 springboot+springsecurity+mybatis+JWT+Redis 实现前后端离（实战篇）
 https://blog.csdn.net/zzxzzxhao/article/details/83381876#3.jwt%E7%94%9F%E6%88%90token%E7%9A%84%E5%B7%A5%E5%85%B7%E7%B1%BB
 
+Springboot+Spring-Security+JWT+Redis实现restful Api的权限管理以及token管理（超详细用爱发电版）
+https://blog.csdn.net/ech13an/article/details/80779973
+
 springboot时间格式问题
 https://blog.csdn.net/beck2017/article/details/82828904
 
