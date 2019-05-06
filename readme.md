@@ -34,6 +34,9 @@ https://www.cnblogs.com/dailiang1993/p/7803564.html
 Spring Boot集成Spring Security
 https://www.jianshu.com/p/08cc28921fd0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
+springboot+springsecurity+mybatis+JWT+Redis 实现前后端离（实战篇）
+https://blog.csdn.net/zzxzzxhao/article/details/83381876#3.jwt%E7%94%9F%E6%88%90token%E7%9A%84%E5%B7%A5%E5%85%B7%E7%B1%BB
+
 springboot时间格式问题
 https://blog.csdn.net/beck2017/article/details/82828904
 
