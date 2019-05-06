@@ -31,6 +31,9 @@ http://www.ityouknow.com/docker/2018/03/07/docker-introduction.html
 springBoot+springSecurity 数据库动态管理用户、角色、权限
 https://www.cnblogs.com/dailiang1993/p/7803564.html
 
+Spring Boot集成Spring Security
+https://www.jianshu.com/p/08cc28921fd0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
 springboot时间格式问题
 https://blog.csdn.net/beck2017/article/details/82828904
 
