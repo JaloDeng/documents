@@ -63,3 +63,6 @@ https://www.jianshu.com/p/61d3af5fa1ba
 
 Gradle打包可执行jar包和给别的项目引用的不可执行jar包
 https://stackoverflow.com/questions/54134759/springboot-with-multi-project-gradle-main-class-name-has-not-been-configured
+
+Gradle构建多模块项目
+https://github.com/FormulaRoom/springboot-mm
