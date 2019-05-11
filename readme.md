@@ -66,3 +66,6 @@ https://stackoverflow.com/questions/54134759/springboot-with-multi-project-gradl
 
 Gradle构建多模块项目
 https://github.com/FormulaRoom/springboot-mm
+
+使用gradle构建springboot多模块项目,并构建成docker容器的demo.
+https://m.gitee.com/topanda/java-springboot-gradle-docker
