@@ -7,6 +7,10 @@ https://github.com/lenve/vhr
 springcloud
 https://github.com/zhoutaoo/SpringCloud
 
+Cloud-Platform是国内首个基于Spring Cloud微服务化开发平台
+https://gitee.com/geek_qi/cloud-platform
+https://gitee.com/geek_qi/cloud-platform-ui
+
 史上最简单的 SpringCloud 教程 | 终章
 https://blog.csdn.net/forezp/article/details/70148833
 
