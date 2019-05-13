@@ -69,3 +69,6 @@ https://github.com/FormulaRoom/springboot-mm
 
 使用gradle构建springboot多模块项目,并构建成docker容器的demo.
 https://m.gitee.com/topanda/java-springboot-gradle-docker
+
+比官方文档更易懂的Vue.js教程！包你学会！
+https://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html
