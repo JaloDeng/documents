@@ -23,7 +23,7 @@ https://www.cnblogs.com/chry/p/7248947.html
 redis安装
 https://www.cnblogs.com/shawhe/p/9548620.html
 
-rabbitm安装
+rabbitmq安装
 https://blog.csdn.net/y_k_y/article/details/81350274
 
 springboot 2.0整合rabbitmq
