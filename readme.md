@@ -88,3 +88,6 @@ https://www.jb51.net/article/135041.htm
 
 centos7安装mysql8.0
 https://blog.csdn.net/weixin_42266606/article/details/80879571
+
+spring+oauth2.0
+https://github.com/jeansfish/RFC6749.zh-cn/blob/master/SUMMARY.md
