@@ -1,5 +1,5 @@
 # Centor7
-centos7 firewall命令
+centos7 firewall命令<br>
 https://www.cnblogs.com/moxiaoan/p/5683743.html
 
 centos7安装mysql8.0
