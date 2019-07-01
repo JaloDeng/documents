@@ -103,7 +103,7 @@ https://www.jianshu.com/p/61d3af5fa1ba
 比官方文档更易懂的Vue.js教程！包你学会！<br>
 https://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html
 
-粒子特效背景
+粒子特效背景<br>
 https://vue-particles.netlify.com/
 
 # 其他技术类
