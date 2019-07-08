@@ -106,7 +106,7 @@ https://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html
 粒子特效背景<br>
 https://vue-particles.netlify.com/
 
-在vue项目中：统一封装 Axios 接口与异常处理
+在vue项目中：统一封装 Axios 接口与异常处理<br>
 https://blog.csdn.net/qq_40128367/article/details/82735310
 
 # 其他技术类
