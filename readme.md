@@ -29,7 +29,7 @@ https://github.com/FormulaRoom/springboot-mm
 https://m.gitee.com/topanda/java-springboot-gradle-docker
 
 # Mybatis
-【Mybatis】如何在Mybatis XML文件中使用枚举变量
+【Mybatis】如何在Mybatis XML文件中使用枚举变量<br>
 https://blog.csdn.net/changqing5818/article/details/84309768
 
 # Maven
