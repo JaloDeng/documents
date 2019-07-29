@@ -28,6 +28,10 @@ https://github.com/FormulaRoom/springboot-mm
 使用gradle构建springboot多模块项目,并构建成docker容器的demo.<br>
 https://m.gitee.com/topanda/java-springboot-gradle-docker
 
+# Mybatis
+【Mybatis】如何在Mybatis XML文件中使用枚举变量
+https://blog.csdn.net/changqing5818/article/details/84309768
+
 # Maven
 史上最全的maven的pom.xml文件详解<br>
 http://www.cnblogs.com/hafiz/p/5360195.html
