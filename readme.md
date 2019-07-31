@@ -113,6 +113,9 @@ https://vue-particles.netlify.com/
 在vue项目中：统一封装 Axios 接口与异常处理<br>
 https://blog.csdn.net/qq_40128367/article/details/82735310
 
+vue + element UI 搭建后台管理导航菜单<br>
+https://www.jianshu.com/p/44362d776eb3
+
 # 其他技术类
 数据结构和算法动态可视化<br>
 https://visualgo.net/zh
