@@ -72,6 +72,10 @@ https://blog.csdn.net/beck2017/article/details/82828904
 springboot 2.0整合rabbitmq<br>
 https://www.jianshu.com/p/0d400d30936b
 
+mybatis 多数据源实现<br>
+https://github.com/YHYR/Mybatis<br>
+https://www.cnblogs.com/cdblogs/p/9275883.html
+
 # SpringCloud
 spring boot 2.1.3 + spring cloud Greenwich.SR1 + mysql 8.0.15 + Spring Security OAuth2.0 + jdk 11<br>
 https://gitee.com/weir_admin/weir-project
