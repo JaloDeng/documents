@@ -112,6 +112,9 @@ https://blog.csdn.net/ech13an/article/details/80779973
 Spring Security Architecture（Spring安全框架的体系结构）<br>
 https://www.jianshu.com/p/61d3af5fa1ba
 
+这是一个使用了springboot+springSecurity+jwt实现的基于token的权限管理的一个demo
+https://github.com/echisan/springboot-jwt-demo
+
 # Vue
 比官方文档更易懂的Vue.js教程！包你学会！<br>
 https://www.cnblogs.com/qcloud1001/archive/2018/09/25/9700625.html
