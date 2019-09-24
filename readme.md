@@ -51,6 +51,13 @@ https://github.com/2224132867/SpringCloud-OAuth2-Spring-Security-Redis
 HiAuth是一个开源的基于Oauth2协议的认证、授权系统<br>
 https://github.com/bestaone/HiAuth
 
+# Python
+Python for Beginners [1 of 44] Programming with Python<br>
+https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner
+
+Getting started with Python<br>
+https://github.com/microsoft/c9-python-getting-started
+
 # RabbitMQ
 rabbitmq安装<br>
 https://blog.csdn.net/y_k_y/article/details/81350274
